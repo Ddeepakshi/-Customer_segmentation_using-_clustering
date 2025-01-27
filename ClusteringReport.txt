@@ -1,0 +1,8 @@
+Number of Clusters: 4
+Davies-Bouldin Index: 0.977
+Cluster Counts:
+Cluster
+1    83
+3    57
+0    33
+2    27
